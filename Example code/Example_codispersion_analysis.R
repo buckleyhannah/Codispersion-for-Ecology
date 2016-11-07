@@ -1,4 +1,5 @@
 ## Code for running codispersion analysis
+## November 2016
 ## Two examples are given:
 ## 1. A point pattern with two marks where we show the codispersion of the two marks
 ## 2. Two raster patterns where we show the codispersion of the two rasters
